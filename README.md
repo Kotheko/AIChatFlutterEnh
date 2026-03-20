@@ -13,9 +13,9 @@ AIChatFlutter - это мультиплатформенное приложени
    - Отображение баланса и стоимости текущего разговора
    - Возможность сохранения данных и очистки истории чата
 
-   ![Chat Screen](https://af.attachmail.ru/cgi-bin/readmsg/Screenshot_20260321-005533.png?id=17740223581014401034%3B0%3B1&project=cloud&rid=2092783243400094643111365140351298544270&x-email=necronlive%40mail.ru)
+   <img src="[https://example.com/image.jpg](https://af.attachmail.ru/cgi-bin/readmsg/Screenshot_20260321-005533.png?id=17740223581014401034%3B0%3B1&project=cloud&rid=2092783243400094643111365140351298544270&x-email=necronlive%40mail.ru)" alt="Главная страница" width="50%">
 
-2. **Настройки (Settings)** - вкладка в `lib/screens/chat_screen.dart` (метод `_buildSettingsPage()`)
+3. **Настройки (Settings)** - вкладка в `lib/screens/chat_screen.dart` (метод `_buildSettingsPage()`)
    - Ввод и сохранение API ключа
    - Выбор провайдера API (OpenRouter.ai или VseGPT.ru)
    - Выбор языковой модели из списка
@@ -25,14 +25,14 @@ AIChatFlutter - это мультиплатформенное приложени
 
    ![Settings Screen](https://af.attachmail.ru/cgi-bin/readmsg/Screenshot_20260321-005556.png?id=17740223581014401034%3B0%3B2&mt=1774022358000&project=cloud&rid=3275850992385834808236692629212314215738&x-email=necronlive%40mail.ru)
 
-3. **Статистика (Statistics)** - `lib/screens/statistics_screen.dart`
+4. **Статистика (Statistics)** - `lib/screens/statistics_screen.dart`
    - Отслеживание количества токенов, сообщений, их соотношение для каждой используемой модели
    - Выбор используемых моделей из списка для сравнения эффективности
    - Общая статистика по всем моделям
 
    ![Statistics Screen](https://af.attachmail.ru/cgi-bin/readmsg/Screenshot_20260321-005624.png?id=17740223581014401034%3B0%3B4&project=cloud&rid=3641166043274148651869738364643846742&x-email=necronlive%40mail.ru)
 
-4. **Расходы (Expenses)** - `lib/screens/expenses_screen.dart`
+5. **Расходы (Expenses)** - `lib/screens/expenses_screen.dart`
    - График расходов различных моделей
    - Анализ расходов по дням каждого месяца
    - Выбор используемых моделей из списка для сравнения затрат
