@@ -13,7 +13,7 @@ AIChatFlutter - это мультиплатформенное приложени
    - Отображение баланса и стоимости текущего разговора
    - Возможность сохранения данных и очистки истории чата
 
-   ![Chat Screen](https://cloud.mail.ru/public/JFT7/LTh4Hz4V1)
+   ![Chat Screen](https://af.attachmail.ru/cgi-bin/readmsg/Screenshot_20260321-005533.png?id=17740223581014401034%3B0%3B1&project=cloud&rid=2092783243400094643111365140351298544270&x-email=necronlive%40mail.ru)
 
 2. **Настройки (Settings)** - вкладка в `lib/screens/chat_screen.dart` (метод `_buildSettingsPage()`)
    - Ввод и сохранение API ключа
